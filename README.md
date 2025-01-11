@@ -12,25 +12,25 @@
 
 ## 研究方向
 
-### 1. 市场概况分析
+### 1. [市场概况分析](research/market_overview/market_overview.md)
 - 市场规模及增长趋势
 - 市场细分及主要消费群体
 - 消费者行为和偏好分析
 - 市场价格区间分析
 
-### 2. 监管环境研究
+### 2. [监管环境研究](research/regulatory_environment/regulatory_environment.md)
 - FDA 相关法规研究
 - 州级管制政策分析
 - 产品合规要求
 - 进口相关规定
 
-### 3. 竞争分析
+### 3. [竞争分析](research/competition_analysis/competition_analysis.md)
 - 主要品牌市场份额
 - 竞品分析（价格、功能、设计等）
 - 品牌定位和营销策略
 - 成功案例研究
 
-### 4. 渠道分析
+### 4. [渠道分析](research/channel_analysis/channel_analysis.md)
 - 主流销售渠道分析
   - 线下实体店
   - 电子商务平台
@@ -38,13 +38,13 @@
 - 渠道准入要求
 - 渠道利润分析
 
-### 5. 消费者研究
+### 5. [消费者研究](research/consumer_research/consumer_research.md)
 - 目标用户群体画像
 - 消费习惯分析
 - 品牌认知度研究
 - 购买决策因素分析
 
-### 6. SWOT分析
+### 6. [SWOT分析](research/swot_analysis/swot_analysis.md)
 - auguse品牌优势分析
 - 潜在劣势识别
 - 市场机会评估
@@ -78,6 +78,7 @@
 ### 已完成功能
 - 项目框架搭建
 - 研究方向确定
+- 子文档创建
 
 ### 当前任务
 - 开始进行市场概况分析
