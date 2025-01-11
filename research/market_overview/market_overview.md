@@ -281,9 +281,107 @@
 - 品牌忠诚度
 
 ### 4. 市场价格区间分析
-- 各细分市场价格区间
-- 价格敏感度分析
-- 利润空间分析
+
+#### 4.1 产品类型价格分布
+
+##### 4.1.1 一次性电子烟价格区间 [[来源: Grand View Research]](https://www.grandviewresearch.com/industry-analysis/us-e-cigarette-vape-market)
+- **入门级产品**：
+  - 价格区间：8-15美元/个
+  - 主要特点：基础功能，较小容量（通常300-800口）
+  - 目标用户：初次尝试者，临时使用者
+
+- **中端产品**：
+  - 价格区间：15-25美元/个
+  - 主要特点：大容量（通常1500-3000口），多口味选择
+  - 目标用户：经常性使用者
+
+- **高端产品**：
+  - 价格区间：25-35美元/个
+  - 主要特点：超大容量（4000-5000口），高端材质，创新功能
+  - 目标用户：追求品质的用户
+
+##### 4.1.2 可充电设备价格区间 [[来源: CDC Foundation, 2024]](https://www.cdcfoundation.org/pr/2024/Monitoring-E-Cigarette-Trends-in-the-United-States-Report)
+- **入门级设备**：
+  - 价格区间：30-50美元
+  - 主要特点：基础功能，简单操作
+  - 配件成本：
+    - 烟油：15-30美元/30ml
+    - 雾化芯：3-5美元/个
+    - 月均总成本：40-60美元
+
+- **中端设备**：
+  - 价格区间：50-100美元
+  - 主要特点：可调节功率，多功能
+  - 配件成本：同入门级
+
+- **高端设备**：
+  - 价格区间：100-200美元以上
+  - 主要特点：温控功能，智能操作，高端材质
+  - 配件成本：高端烟油20-40美元/30ml
+
+#### 4.2 价格敏感度分析
+
+##### 4.2.1 不同消费群体价格敏感度 [[来源: CDC Foundation, 2024]](https://www.cdcfoundation.org/pr/2024/Monitoring-E-Cigarette-Trends-in-the-United-States-Report)
+- **青年群体（18-25岁）**：
+  - 价格敏感度高
+  - 近90%选择调味电子烟
+  - 对促销活动反应强烈
+
+- **成年常用者（25-45岁）**：
+  - 价格敏感度中等
+  - 注重长期使用成本
+  - 愿意为品质支付溢价
+
+- **高端用户（各年龄段）**：
+  - 价格敏感度低
+  - 追求产品体验
+  - 品牌忠诚度高
+
+##### 4.2.2 影响价格敏感度的因素
+- **使用频率**：
+  - 高频率用户（每日使用者约30%）更注重长期成本
+  - 低频率用户更在意单次购买价格
+
+- **收入水平**：
+  - 高收入群体：品质优先
+  - 中等收入：性价比导向
+  - 低收入：价格导向
+
+#### 4.3 利润空间分析 [[来源: Grand View Research]](https://www.grandviewresearch.com/industry-analysis/us-e-cigarette-vape-market)
+
+##### 4.3.1 制造商利润
+- **一次性电子烟**：
+  - 生产成本：2-5美元/个
+  - 毛利率：50-70%
+  - 利润受规模效应影响大
+
+- **可充电设备**：
+  - 设备毛利率：40-60%
+  - 耗材毛利率：60-80%
+  - 长期利润主要来自耗材销售
+
+##### 4.3.2 渠道利润
+- **线下渠道**：
+  - 零售加价：30-50%
+  - 专卖店加价：40-60%
+  - 渠道成本高
+
+- **线上渠道**：
+  - 电商平台加价：20-40%
+  - 运营成本较低
+  - 价格竞争激烈
+
+#### 4.4 价格趋势预测
+- **短期趋势（2024-2025）**：
+  - 一次性产品价格趋于稳定
+  - 可充电设备价格小幅下降
+  - 耗材价格保持稳定
+
+- **长期趋势（2025-2030）**：
+  - 高端产品比例增加
+  - 智能化功能带来溢价
+  - 规模效应降低生产成本
+  - 预计年复合增长率(CAGR)达29.8% [[来源: Grand View Research]](https://www.grandviewresearch.com/industry-analysis/us-e-cigarette-vape-market)
 
 ## 研究进度
 - [x] 市场规模数据收集
@@ -292,14 +390,48 @@
 - [ ] 趋势预测
 
 ## 数据来源
-- [Statista - E-Cigarettes Market Outlook](https://www.statista.com/outlook/cmo/tobacco-products/e-cigarettes/united-states)
-- [Grand View Research - U.S. E-cigarette & Vape Market Analysis](https://www.grandviewresearch.com/industry-analysis/us-e-cigarette-vape-market)
-- 行业分析报告
-- 市场调研数据
+
+### 市场研究机构报告
+- [Statista - E-Cigarettes Market Outlook (2024)](https://www.statista.com/outlook/cmo/tobacco-products/e-cigarettes/united-states)
+  - 市场规模预测
+  - 人均消费数据
+  - 增长趋势分析
+
+- [Grand View Research - U.S. E-cigarette & Vape Market Analysis (2023-2030)](https://www.grandviewresearch.com/industry-analysis/us-e-cigarette-vape-market)
+  - 市场份额数据
+  - 产品细分分析
+  - 长期增长预测
+
+### 政府及研究机构报告
+- [CDC Foundation - Monitoring E-Cigarette Trends Report (2024)](https://www.cdcfoundation.org/pr/2024/Monitoring-E-Cigarette-Trends-in-the-United-States-Report)
+  - 青少年使用数据
+  - 消费者行为分析
+  - 监管影响评估
+
+### 行业协会数据
+- 美国电子烟协会（American Vaping Association）市场报告
+- 烟草和电子烟零售商协会数据
+
+### 企业财报数据
+- British American Tobacco年度报告
+- Altria Group财务报告
+- SMOORE International Holdings Limited公司报告
 
 ## 数据说明
 1. 不同研究机构对市场规模的预测存在差异，这主要是由于：
-   - 统计口径的差异
-   - 预测模型的不同
-   - 市场定义范围的差异
-2. 本报告主要采用权威市场研究机构的数据，并通过交叉对比确保数据可靠性 
+   - 统计口径的差异（如是否包含配件销售）
+   - 预测模型的不同（线性/非线性增长模型）
+   - 市场定义范围的差异（是否包含某些新型设备）
+   - 数据采集方法的不同（零售监测/消费者调查）
+
+2. 本报告主要采用权威市场研究机构的数据，并通过以下方式确保数据可靠性：
+   - 交叉对比不同来源的数据
+   - 优先使用最新发布的报告
+   - 参考政府机构的官方统计
+   - 结合实地调研验证
+
+3. 数据更新周期：
+   - 市场规模数据：季度更新
+   - 消费者行为数据：半年更新
+   - 价格数据：月度更新
+   - 监管政策：实时更新 
